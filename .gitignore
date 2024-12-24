@@ -1,0 +1,4 @@
+*.db
+*.html
+__pycache__/
+scribbles.py
